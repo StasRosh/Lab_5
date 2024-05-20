@@ -1,0 +1,12 @@
+{
+    "name": "my-node-app",
+    "version": "1.0.0",
+    "description": "Prosta aplikacja Node.js wyświetlająca informacje o serwerze",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
